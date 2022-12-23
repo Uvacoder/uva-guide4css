@@ -17,14 +17,14 @@
 
 ## View online
 
-🌏 [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
+🌏 [guide4csstips](https://guide4csstips.vercel.app/#/)
 
 
 ## Quick start
 
 Several quick start options are available:
 
-- Clone the repo: `https://github.com/l-hammer/You-need-to-know-css.git`
+- Clone the repo: `https://github.com/uvacoder/uva-guide4css.git`
 - Install docsify with [docsify](https://docsify.js.org/#/): `npm install docsify-cli -g (or yarn global add docsify-cli)`
 - Development run `docsify serve`
 - Open `http://localhost:3000` in your browser.
