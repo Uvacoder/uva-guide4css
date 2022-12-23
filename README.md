@@ -3,7 +3,7 @@
   <a href="https://lhammer.cn/You-need-to-know-css/#/">
     <img src="./static/logo.png" width="152">
   </a>
-  <h3 align="center">You-need-to-know-css</h3>
+  <h3 align="center">Guide 4 csstips</h3>
   <p align="center">
     
     <a href="https://github.com/l-hammer/You-need-to-know-css/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg"></a>
